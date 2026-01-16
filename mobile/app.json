@@ -21,13 +21,26 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.rohitrathod.mobile"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
       "expo-secure-store"
-    ]
+    ],
+    "updates": {
+      "url": "https://u.expo.dev/60c537c9-5f94-4928-83d4-1183540e73a1"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "60c537c9-5f94-4928-83d4-1183540e73a1"
+      }
+    },
+    "owner": "rohitrathod"
   }
 }
