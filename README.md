@@ -97,3 +97,13 @@ The mobile app connects to the backend to book slots.
 ## Features to Test
 - **User App**: Login/Register, Dashboard with Chatbot, View Packages (Parallax), Book a Slot.
 - **Admin App**: Manage Packages (Upload Images), View Dashboard Analytics.
+
+
+
+
+
+
+
+
+
+npx eas build -p android --profile preview
